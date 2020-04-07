@@ -11,12 +11,13 @@ Numpy                   (pip install numpy)<br>
 QT5                     (pip install PyQt5)<br>
 PyQtGraph               (pip install pyqtgraph)<br>
 Matplotlib              (pip install matplotlib)<br>
-Skipy                   (pip install skipy)<br>
-Sklearn                 (pip install sklearn)<br>
+Scipy                   (pip install scipy)<br>
+Sklearn                 (pip install scikit-learn)<br>
 ImageIO                 (pip install imageio)<br>
 Pillow (PIL)            (pip install pillow)<br>
-Pickle                  (pip install pickle)<br>
 Pypianoroll             (pip install pypianoroll)<br>
+<br>
+all except pypianoroll can be installed through conda
 <br>
 
 Execution:<br>
